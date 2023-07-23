@@ -10,14 +10,10 @@
 * what run_backend_script.py does ?  
 * install libraries from req.txt file  
 * create super user with username and password 'admin'  
-* load all the capital and counries in database.  
+* load all the capitals and countries in the database.  
 * run the server  
 
 ## How to run frontend
  
 `1. go to frontend folder and run the following command : npm install`  
 `2. once installation is completed run the following command to start the server: npm run start`  
-
-* what run_frontend.js does ?  
-* install node_modules  
-* run the server  
